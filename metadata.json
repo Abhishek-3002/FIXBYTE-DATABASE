@@ -1,0 +1,6 @@
+{
+  "name": "FixByte Cloud Database & Server Operations",
+  "description": "Enterprise Database and Server Infrastructure Management Console with customizable live tracking telemetry, automated anomaly alerts, and role-based employee access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
